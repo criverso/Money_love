@@ -16,7 +16,7 @@ A comprehensive React application that helps users understand and compare dating
 - React 18.2.0
 - Recharts 2.12.7 (for data visualization)
 - Tailwind CSS (for styling)
-- OpenRouter AI API (Claude 3.5 Sonnet for the Guru chatbot)
+- OpenRouter AI API (deepseekr1 for the Guru chatbot)
 
 ## Prerequisites
 

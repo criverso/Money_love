@@ -106,10 +106,11 @@ This creates a `build` folder with optimized static files ready for deployment.
 1. **Upload build folder** to S3 bucket
 2. **Configure CloudFront** for CDN
 3. **Set up custom domain** (optional)
-
+### 6. Wordpress + Reactpress 
+1. **public_html/wp-content/reactpress/apps
 ## API Configuration
 
-The AI Guru feature uses OpenRouter API with Claude 3.5 Sonnet:
+The AI Guru feature uses OpenRouter API with R1 deepseek:
 
 1. **API key is already configured** in the application
 2. **For production deployment**, you may want to move the API key to environment variables:
